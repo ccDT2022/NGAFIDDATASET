@@ -23,7 +23,8 @@ class NGAFID_Dataset_Downloader:
         #"all_flights": "https://drive.google.com/uc?id=1-0pVPhwRQoifT_VuQyGDLXuzYPYySX-Y",
         #"2days": "https://drive.google.com/uc?id=1-2pxwiQNhFnhTg7whosQoF_yztD5jOM2",
         "all_flights": "https://drive.google.com/file/d/1KN9DQJX63D-0QbKEish9g1n4aF51mIwb/view?usp=drive_link",
-        "2days": "https://drive.google.com/file/d/1OlvdT5xk9-mvFnlhfXYydxRnEUtVe-yH/view?usp=drive_link",
+        #"2days": "https://drive.google.com/file/d/1OlvdT5xk9-mvFnlhfXYydxRnEUtVe-yH/view?usp=drive_link",
+        "2days": "https://drive.google.com/drive/folders/1TmKDKxB9j7sYPkC89P8K6i1-u3Q0HuKt?usp=drive_link",
     }
 
     @classmethod
