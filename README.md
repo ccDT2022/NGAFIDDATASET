@@ -22,7 +22,7 @@
 2. 配置数据集路径（如果你使用 Google Drive，请确保已挂载云盘并修改代码中的读取路径）。
 3. 依次运行代码块，完成数据预处理、模型训练与评估。
 
-## 📊 实验结果 (5 折交叉验证)
+## 📊 实验结果 (五折交叉验证)
 为验证复现效果，本项目在 19 个航空维修事件子集上分别运行了 **MiniRocket**、**ConvMHSA** 和 **InceptionTime** 三种模型，并严格采用 5 折交叉验证（5-Fold CV）统计平均准确率（Mean Accuracy）。
 ### 1. 详细实验记录表
 | 实验折数 (Fold) |    MiniRocket Acc   |     ConvMHSA Acc    |  InceptionTime Acc  |
